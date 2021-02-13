@@ -3,5 +3,5 @@
 <h2> Glad you could make it thus far</b></h2>
 <h2><b> Yaaaaaaaaay!!!! During this period, I had the opportunity to learn Linux, Git, Jekins, Tomcat, Docker, Ansible, AWS, Kubernetes and i am very excited. They are all on point.</b></h2> 
 <h2><b> First interview done. Offer letter is $205k. Cant wait. I love it.</b></h2>
-<h2><b> Praise be to Jehovah</b></h2>
+<h2><b> Praise be to Jehovah cant wait to put my skills to work</b></h2>
 <h1> Good job Evander on learning Devops. Very proud of myself.</b></h1>
