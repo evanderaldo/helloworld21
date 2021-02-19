@@ -9,5 +9,7 @@
 
 ## NOTE
 
-<h1><b> This line belongs to the hard won battle that only brave men called DevOPS Engineers have crossed and it belongs to Men who have gone through the tutelage of Prof. Serge and have studied K8S, LINUX, AWS, TOMCAT, JENKINS, but to mention a few. To the Gladiators: AROOOO ARRO ARRRRRRO ARRRRROOOOOOOO.I am happy to have come thus far 
+<h1><b> This line belongs to the hard won battle that only brave men called DevOPS Engineers have crossed and it belongs to Men who have gone 
+  through the tutelage of Prof. Serge and have studied K8S, LINUX, AWS, TOMCAT, JENKINS, but to mention a few. 
+  To the Gladiators: AROOOO ARRO ARRRRRRO ARRRRROOOOOOOO.I am happy to have come thus far 
 with God on my side. Proud product of DSG. YaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaY </b></h1>
