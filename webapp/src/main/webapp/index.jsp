@@ -9,5 +9,5 @@
 
 ## NOTE
 
-<h1><b> This line belongs to the hard won battle that only brave men called DevOPS Engineers have to cross and it belongs to men who have gone the tutelage of Prof. Serge 
-  and have studied K8S, LINUX, AWS, TOMCAT, JENKINS, but to mention a few.AROARRO ARRRRRRO ARRRRROOOOOOOO.I am a product</b></h1>
+<h1><b> This line belongs to the hard won battle that only brave men called DevOPS Engineers have to cross and it belongs to men who have gone through the tutelage of Prof. Serge 
+  and have studied K8S, LINUX, AWS, TOMCAT, JENKINS, but to mention a few.ARO ARRO ARRRRRRO ARRRRROOOOOOOO.I am a product</b></h1>
