@@ -8,16 +8,4 @@
 <h2><b> Praise be to Jehovah. I cant wait to put my skills to work</b></h2>
 <h2><b> Good job Evander on learning Devops. Very proud of myself.</b></h2>
 
-######################################## NOTE  #############################
-
-<h1><b> This line belongs to the hard won battle that only brave men called DevOPS Engineers have crossed and it belongs to Men who have gone
-through the tutelage of Prof. Serge and have studied K8S, LINUX, AWS, TOMCAT, JENKINS, but to mention a few.
-To the Gladiators: AROOOO ARRO ARRRRRRO ARRRRROOOOOOOO.I am happy to have come thus far
-with God on my side. Proud product of DSG. YaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaY </b></h1>
-Praise be to Jehovah. I owe a great gratitude to Mr F.Richards. He knows himself.
-
-<h2><b> Good job Evander on learning Devops and all its ancilliaries</b><h2>
-<h1><b> Good job Evander on learning Devops. Very proud of myself.</b></h1>
-
-
 
