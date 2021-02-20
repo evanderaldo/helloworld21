@@ -1,19 +1,23 @@
-<b><h1> Hello and Welcome to the DevOps Project orchestrated by Serge and delivered by EGD !!!</b></h1>
-<b><h2> Data Service Group has been my learning partner during this period</b></h2>
-<b><h2> Glad i could make it thus far. I give all the praise to Jehovah.</b></h2>
-<b><h2> Yaaaaaaaaay, finally the die is cast. We have almost completed the course and during this period I have had the opportunity to study Jenkins, Ansible, AWS, Tomcat, Kubernetes, Chef and Puppet.</b></h2>
+<h1><b> Hello World, Welcome to this DevOps Project created by Evander!!!</b></h1>
+<h2><b> DSG is your learning partner</b></h2>
+<h2><b> Glad you could make it thus far</b></h2>
+<h2><b> Yaaaaaaaaay!!!! During this period, I had the opportunity to learn Linux, Git, Jekins, Tomcat, 
+	Docker, Ansible, AWS,
+<h2><b>Kubernetes and i am very excited. They are all on point.</b></h2>
+<h2><b> First interview done. Offer letter is $215k. Cant wait. I love it.</b></h2>
+<h2><b> Praise be to Jehovah. I cant wait to put my skills to work</b></h2>
+<h2><b> Good job Evander on learning Devops. Very proud of myself.</b></h2>
 
-<b><h2>I am excited that my first interview is done and dusted. Offer letter has arrived and it is $215k. I am happy I took this journey. 
-Praise be to Jehovah. I owe a great gratitude to Mr F.Richards. He knows himself.
-
-<b><h1> Good job Evander on learning Devops and all its ancilliaries</b></h1>
-
-
-
-	############################ NOTE #########################################################################
+######################################## NOTE  #############################
 
 <h1><b> This line belongs to the hard won battle that only brave men called DevOPS Engineers have crossed and it belongs to Men who have gone
-  through the tutelage of Prof. Serge and have studied K8S, LINUX, AWS, TOMCAT, JENKINS, but to mention a few.
-  To the Gladiators: AROOOO ARRO ARRRRRRO ARRRRROOOOOOOO.I am happy to have come thus far
+through the tutelage of Prof. Serge and have studied K8S, LINUX, AWS, TOMCAT, JENKINS, but to mention a few.
+To the Gladiators: AROOOO ARRO ARRRRRRO ARRRRROOOOOOOO.I am happy to have come thus far
 with God on my side. Proud product of DSG. YaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaY </b></h1>
+Praise be to Jehovah. I owe a great gratitude to Mr F.Richards. He knows himself.
+
+<h2><b> Good job Evander on learning Devops and all its ancilliaries</b><h2>
+<h1><b> Good job Evander on learning Devops. Very proud of myself.</b></h1>
+
+
 
