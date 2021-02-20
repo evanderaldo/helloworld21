@@ -8,4 +8,4 @@
 <h2><b> Praise be to Jehovah. I cant wait to put my skills to work</b></h2>
 <h2><b> Good job Evander on learning Devops. Very proud of myself.</b></h2>
 
-
+################################ NOTE ##########################################################
